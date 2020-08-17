@@ -1,0 +1,26 @@
+{
+    "name": "aharen/flight-mv",
+    "description": "Velaanaa International Airport arrivals/departures from fis.com.mv",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ahmed Khusaam",
+            "email": "hello@khusaam.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "aharen\\FlightMv\\": "src/FlightMv"
+        }
+    },
+    "require": {
+        "php": "^7.4.0",
+        "dusank/knapsack": "10.0.*",
+        "guzzlehttp/guzzle": "7.0.*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.1"
+    }
+}
