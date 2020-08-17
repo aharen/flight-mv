@@ -1,0 +1,145 @@
+<Departures>
+<UpdateTime>20200817 19:38</UpdateTime>
+  <Flight>
+    <AirLineID>QR</AirLineID>
+    <AirLineName>Qatar Air</AirLineName>
+    <FlightID>QR 675</FlightID>
+    <Route1>Doha</Route1>
+    <Route2> </Route2>
+    <Route3> </Route3>
+    <Route4> </Route4>
+    <Route5> </Route5>
+    <Route6> </Route6>
+    <Scheduled>20:00</Scheduled>
+    <Estimated> </Estimated>
+    <Status>FZ</Status>
+    <Gate> </Gate>
+    <Terminal> </Terminal>
+    <CheckinArea> </CheckinArea>
+    <Date>20200817</Date>
+    <PrimaryFlight> </PrimaryFlight>
+    <CarrierType>I</CarrierType>
+  </Flight>
+  <Flight>
+    <AirLineID>EK</AirLineID>
+    <AirLineName>Emirates</AirLineName>
+    <FlightID>EK 657</FlightID>
+    <Route1>Dubai</Route1>
+    <Route2> </Route2>
+    <Route3> </Route3>
+    <Route4> </Route4>
+    <Route5> </Route5>
+    <Route6> </Route6>
+    <Scheduled>09:10</Scheduled>
+    <Estimated> </Estimated>
+    <Status> </Status>
+    <Gate> </Gate>
+    <Terminal> </Terminal>
+    <CheckinArea> </CheckinArea>
+    <Date>20200818</Date>
+    <PrimaryFlight> </PrimaryFlight>
+    <CarrierType>I</CarrierType>
+  </Flight>
+  <Flight>
+    <AirLineID>6E</AirLineID>
+    <AirLineName>Other</AirLineName>
+    <AltName> </AltName>
+    <FlightID>6E 9112</FlightID>
+    <Route1>Cochin</Route1>
+    <Route2> </Route2>
+    <Route3> </Route3>
+    <Route4> </Route4>
+    <Route5> </Route5>
+    <Route6> </Route6>
+    <Scheduled>09:30</Scheduled>
+    <Estimated> </Estimated>
+    <Status> </Status>
+    <Gate> </Gate>
+    <Terminal> </Terminal>
+    <CheckinArea> </CheckinArea>
+    <Date>20200818</Date>
+    <PrimaryFlight> </PrimaryFlight>
+    <CarrierType>I</CarrierType>
+  </Flight>
+  <Flight>
+    <AirLineID>Q2</AirLineID>
+    <AirLineName>Maldivian</AirLineName>
+    <FlightID>Q2 502</FlightID>
+    <Route1>Dhaka</Route1>
+    <Route2> </Route2>
+    <Route3> </Route3>
+    <Route4> </Route4>
+    <Route5> </Route5>
+    <Route6> </Route6>
+    <Scheduled>09:30</Scheduled>
+    <Estimated> </Estimated>
+    <Status> </Status>
+    <Gate> </Gate>
+    <Terminal> </Terminal>
+    <CheckinArea> </CheckinArea>
+    <Date>20200818</Date>
+    <PrimaryFlight> </PrimaryFlight>
+    <CarrierType>I</CarrierType>
+  </Flight>
+  <Flight>
+    <AirLineID>AI</AirLineID>
+    <AirLineName>Air India</AirLineName>
+    <FlightID>AI 264</FlightID>
+    <Route1>Trivandrum</Route1>
+    <Route2>New Delhi</Route2>
+    <Route3> </Route3>
+    <Route4> </Route4>
+    <Route5> </Route5>
+    <Route6> </Route6>
+    <Scheduled>15:00</Scheduled>
+    <Estimated> </Estimated>
+    <Status>CA</Status>
+    <Gate> </Gate>
+    <Terminal> </Terminal>
+    <CheckinArea> </CheckinArea>
+    <Date>20200818</Date>
+    <PrimaryFlight> </PrimaryFlight>
+    <CarrierType>I</CarrierType>
+  </Flight>
+  <Flight>
+    <AirLineID>QR</AirLineID>
+    <AirLineName>Qatar Air</AirLineName>
+    <FlightID>QR 675</FlightID>
+    <Route1>Doha</Route1>
+    <Route2> </Route2>
+    <Route3> </Route3>
+    <Route4> </Route4>
+    <Route5> </Route5>
+    <Route6> </Route6>
+    <Scheduled>20:00</Scheduled>
+    <Estimated> </Estimated>
+    <Status> </Status>
+    <Gate> </Gate>
+    <Terminal> </Terminal>
+    <CheckinArea> </CheckinArea>
+    <Date>20200818</Date>
+    <PrimaryFlight> </PrimaryFlight>
+    <CarrierType>I</CarrierType>
+  </Flight>
+  <Flight>
+    <AirLineID>EY</AirLineID>
+    <AirLineName>Etihad Airways</AirLineName>
+    <FlightID>EY 279</FlightID>
+    <Route1>Abu Dhabi</Route1>
+    <Route2> </Route2>
+    <Route3> </Route3>
+    <Route4> </Route4>
+    <Route5> </Route5>
+    <Route6> </Route6>
+    <Scheduled>20:05</Scheduled>
+    <Estimated> </Estimated>
+    <Status> </Status>
+    <Gate> </Gate>
+    <Terminal> </Terminal>
+    <CheckinArea> </CheckinArea>
+    <Date>20200818</Date>
+    <PrimaryFlight> </PrimaryFlight>
+    <CarrierType>I</CarrierType>
+  </Flight>
+</Departures>
+

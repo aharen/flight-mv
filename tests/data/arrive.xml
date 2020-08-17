@@ -1,0 +1,305 @@
+<Arrivals>
+<UpdateTime>20200817 19:45</UpdateTime>
+  <Flight>
+    <AirLineID>Q2</AirLineID>
+    <AirLineName>Maldivian</AirLineName>
+    <FlightID>Q2 8121</FlightID>
+    <Route1>Fuvahmulah</Route1>
+    <Route2> </Route2>
+    <Route3> </Route3>
+    <Route4> </Route4>
+    <Route5> </Route5>
+    <Route6> </Route6>
+    <Scheduled>19:50</Scheduled>
+    <Estimated>19:25</Estimated>
+    <Status>LA</Status>
+    <Gate> </Gate>
+    <Terminal> </Terminal>
+    <CheckinArea> </CheckinArea>
+    <Date>20200817</Date>
+    <PrimaryFlight> </PrimaryFlight>
+    <CarrierType>D</CarrierType>
+  </Flight>
+  <Flight>
+    <AirLineID>Q2</AirLineID>
+    <AirLineName>Maldivian</AirLineName>
+    <FlightID>Q2 6503</FlightID>
+    <Route1>Dhaka</Route1>
+    <Route2> </Route2>
+    <Route3> </Route3>
+    <Route4> </Route4>
+    <Route5> </Route5>
+    <Route6> </Route6>
+    <Scheduled>20:30</Scheduled>
+    <Estimated>20:28</Estimated>
+    <Status> </Status>
+    <Gate> </Gate>
+    <Terminal> </Terminal>
+    <CheckinArea> </CheckinArea>
+    <Date>20200817</Date>
+    <PrimaryFlight> </PrimaryFlight>
+    <CarrierType>I</CarrierType>
+  </Flight>
+  <Flight>
+    <AirLineID>EK</AirLineID>
+    <AirLineName>Emirates</AirLineName>
+    <FlightID>EK 656</FlightID>
+    <Route1>Dubai</Route1>
+    <Route2> </Route2>
+    <Route3> </Route3>
+    <Route4> </Route4>
+    <Route5> </Route5>
+    <Route6> </Route6>
+    <Scheduled>07:40</Scheduled>
+    <Estimated> </Estimated>
+    <Status> </Status>
+    <Gate> </Gate>
+    <Terminal> </Terminal>
+    <CheckinArea> </CheckinArea>
+    <Date>20200818</Date>
+    <PrimaryFlight> </PrimaryFlight>
+    <CarrierType>I</CarrierType>
+  </Flight>
+  <Flight>
+    <AirLineID>6E</AirLineID>
+    <AirLineName>Other</AirLineName>
+    <AltName> </AltName>
+    <FlightID>6E 9111</FlightID>
+    <Route1>Cochin</Route1>
+    <Route2> </Route2>
+    <Route3> </Route3>
+    <Route4> </Route4>
+    <Route5> </Route5>
+    <Route6> </Route6>
+    <Scheduled>08:30</Scheduled>
+    <Estimated> </Estimated>
+    <Status> </Status>
+    <Gate> </Gate>
+    <Terminal> </Terminal>
+    <CheckinArea> </CheckinArea>
+    <Date>20200818</Date>
+    <PrimaryFlight> </PrimaryFlight>
+    <CarrierType>I</CarrierType>
+  </Flight>
+  <Flight>
+    <AirLineID>QR</AirLineID>
+    <AirLineName>Qatar Air</AirLineName>
+    <FlightID>QR 672</FlightID>
+    <Route1>Doha</Route1>
+    <Route2> </Route2>
+    <Route3> </Route3>
+    <Route4> </Route4>
+    <Route5> </Route5>
+    <Route6> </Route6>
+    <Scheduled>09:05</Scheduled>
+    <Estimated> </Estimated>
+    <Status> </Status>
+    <Gate> </Gate>
+    <Terminal> </Terminal>
+    <CheckinArea> </CheckinArea>
+    <Date>20200818</Date>
+    <PrimaryFlight> </PrimaryFlight>
+    <CarrierType>I</CarrierType>
+  </Flight>
+  <Flight>
+    <AirLineID>AI</AirLineID>
+    <AirLineName>Air India</AirLineName>
+    <FlightID>AI 263</FlightID>
+    <Route1>New Delhi</Route1>
+    <Route2>Trivandrum</Route2>
+    <Route3> </Route3>
+    <Route4> </Route4>
+    <Route5> </Route5>
+    <Route6> </Route6>
+    <Scheduled>13:55</Scheduled>
+    <Estimated> </Estimated>
+    <Status>CA</Status>
+    <Gate> </Gate>
+    <Terminal> </Terminal>
+    <CheckinArea> </CheckinArea>
+    <Date>20200818</Date>
+    <PrimaryFlight> </PrimaryFlight>
+    <CarrierType>I</CarrierType>
+  </Flight>
+  <Flight>
+    <AirLineID>EY</AirLineID>
+    <AirLineName>Etihad Airways</AirLineName>
+    <FlightID>EY 278</FlightID>
+    <Route1>Abu Dhabi</Route1>
+    <Route2> </Route2>
+    <Route3> </Route3>
+    <Route4> </Route4>
+    <Route5> </Route5>
+    <Route6> </Route6>
+    <Scheduled>17:20</Scheduled>
+    <Estimated> </Estimated>
+    <Status> </Status>
+    <Gate> </Gate>
+    <Terminal> </Terminal>
+    <CheckinArea> </CheckinArea>
+    <Date>20200818</Date>
+    <PrimaryFlight> </PrimaryFlight>
+    <CarrierType>I</CarrierType>
+  </Flight>
+  <Flight>
+    <AirLineID>Q2</AirLineID>
+    <AirLineName>Maldivian</AirLineName>
+    <FlightID>Q2 503</FlightID>
+    <Route1>Dhaka</Route1>
+    <Route2> </Route2>
+    <Route3> </Route3>
+    <Route4> </Route4>
+    <Route5> </Route5>
+    <Route6> </Route6>
+    <Scheduled>19:00</Scheduled>
+    <Estimated> </Estimated>
+    <Status> </Status>
+    <Gate> </Gate>
+    <Terminal> </Terminal>
+    <CheckinArea> </CheckinArea>
+    <Date>20200818</Date>
+    <PrimaryFlight> </PrimaryFlight>
+    <CarrierType>I</CarrierType>
+  </Flight>
+  <Flight>
+    <AirLineID>UL</AirLineID>
+    <AirLineName>Air Lanka</AirLineName>
+    <FlightID>UL 101</FlightID>
+    <Route1>Colombo</Route1>
+    <Route2> </Route2>
+    <Route3> </Route3>
+    <Route4> </Route4>
+    <Route5> </Route5>
+    <Route6> </Route6>
+    <Scheduled>08:25</Scheduled>
+    <Estimated> </Estimated>
+    <Status> </Status>
+    <Gate> </Gate>
+    <Terminal> </Terminal>
+    <CheckinArea> </CheckinArea>
+    <Date>20200819</Date>
+    <PrimaryFlight> </PrimaryFlight>
+    <CarrierType>I</CarrierType>
+  </Flight>
+  <Flight>
+    <AirLineID>WY</AirLineID>
+    <AirLineName>Oman Air</AirLineName>
+    <FlightID>WY 5101</FlightID>
+    <Route1>Colombo</Route1>
+    <Route2> </Route2>
+    <Route3> </Route3>
+    <Route4> </Route4>
+    <Route5> </Route5>
+    <Route6> </Route6>
+    <Scheduled>08:25</Scheduled>
+    <Estimated> </Estimated>
+    <Status> </Status>
+    <Gate> </Gate>
+    <Terminal> </Terminal>
+    <CheckinArea> </CheckinArea>
+    <Date>20200819</Date>
+    <PrimaryFlight>UL 101</PrimaryFlight>
+    <CarrierType>I</CarrierType>
+  </Flight>
+  <Flight>
+    <AirLineID>MH</AirLineID>
+    <AirLineName>Malaysia A/l</AirLineName>
+    <FlightID>MH 9017</FlightID>
+    <Route1>Colombo</Route1>
+    <Route2> </Route2>
+    <Route3> </Route3>
+    <Route4> </Route4>
+    <Route5> </Route5>
+    <Route6> </Route6>
+    <Scheduled>08:25</Scheduled>
+    <Estimated> </Estimated>
+    <Status> </Status>
+    <Gate> </Gate>
+    <Terminal> </Terminal>
+    <CheckinArea> </CheckinArea>
+    <Date>20200819</Date>
+    <PrimaryFlight>UL 101</PrimaryFlight>
+    <CarrierType>I</CarrierType>
+  </Flight>
+  <Flight>
+    <AirLineID>QR</AirLineID>
+    <AirLineName>Qatar Air</AirLineName>
+    <FlightID>QR 4918</FlightID>
+    <Route1>Colombo</Route1>
+    <Route2> </Route2>
+    <Route3> </Route3>
+    <Route4> </Route4>
+    <Route5> </Route5>
+    <Route6> </Route6>
+    <Scheduled>08:25</Scheduled>
+    <Estimated> </Estimated>
+    <Status> </Status>
+    <Gate> </Gate>
+    <Terminal> </Terminal>
+    <CheckinArea> </CheckinArea>
+    <Date>20200819</Date>
+    <PrimaryFlight>UL 101</PrimaryFlight>
+    <CarrierType>I</CarrierType>
+  </Flight>
+  <Flight>
+    <AirLineID>AZ</AirLineID>
+    <AirLineName>Air Italia</AirLineName>
+    <FlightID>AZ 5608</FlightID>
+    <Route1>Colombo</Route1>
+    <Route2> </Route2>
+    <Route3> </Route3>
+    <Route4> </Route4>
+    <Route5> </Route5>
+    <Route6> </Route6>
+    <Scheduled>08:25</Scheduled>
+    <Estimated> </Estimated>
+    <Status> </Status>
+    <Gate> </Gate>
+    <Terminal> </Terminal>
+    <CheckinArea> </CheckinArea>
+    <Date>20200819</Date>
+    <PrimaryFlight>UL 101</PrimaryFlight>
+    <CarrierType>I</CarrierType>
+  </Flight>
+  <Flight>
+    <AirLineID>EY</AirLineID>
+    <AirLineName>Etihad Airways</AirLineName>
+    <FlightID>EY 7154</FlightID>
+    <Route1>Colombo</Route1>
+    <Route2> </Route2>
+    <Route3> </Route3>
+    <Route4> </Route4>
+    <Route5> </Route5>
+    <Route6> </Route6>
+    <Scheduled>08:25</Scheduled>
+    <Estimated> </Estimated>
+    <Status> </Status>
+    <Gate> </Gate>
+    <Terminal> </Terminal>
+    <CheckinArea> </CheckinArea>
+    <Date>20200819</Date>
+    <PrimaryFlight>UL 101</PrimaryFlight>
+    <CarrierType>I</CarrierType>
+  </Flight>
+  <Flight>
+    <AirLineID>QR</AirLineID>
+    <AirLineName>Qatar Air</AirLineName>
+    <FlightID>QR 672</FlightID>
+    <Route1>Doha</Route1>
+    <Route2> </Route2>
+    <Route3> </Route3>
+    <Route4> </Route4>
+    <Route5> </Route5>
+    <Route6> </Route6>
+    <Scheduled>09:05</Scheduled>
+    <Estimated> </Estimated>
+    <Status> </Status>
+    <Gate> </Gate>
+    <Terminal> </Terminal>
+    <CheckinArea> </CheckinArea>
+    <Date>20200819</Date>
+    <PrimaryFlight> </PrimaryFlight>
+    <CarrierType>I</CarrierType>
+  </Flight>
+</Arrivals>
+
