@@ -85,7 +85,7 @@ $flight = new Flight(
 $flight->departures()->where('AirLineID', 'Q2');
 ```
 
-You can also nest to further filter your results. Example: get all Q2 (Maldivian) but only International Flights
+You can also chain `where()` methods to further filter your results. Example: get all Q2 (Maldivian) but only International Flights
 
 ```
 use aharen\FlightMv\Flight;
