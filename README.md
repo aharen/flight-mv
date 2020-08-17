@@ -14,8 +14,13 @@ Fetch Arrivals
 
 ```
 use aharen\FlightMv\Flight;
+use aharen\FlightMv\ApiClient\ApiClient;
 
-(new Flight)->arrivals()->get();
+$flight = new Flight(
+    new ApiClient()
+);
+
+$flight->arrivals()->get();
 ```
 
 Fetch Departures
@@ -23,7 +28,11 @@ Fetch Departures
 ```
 use aharen\FlightMv\Flight;
 
-(new Flight)->departures()->get();
+$flight = new Flight(
+    new ApiClient()
+);
+
+$flight->departures()->get();
 ```
 
 ## Methods
@@ -33,7 +42,11 @@ use aharen\FlightMv\Flight;
 ```
 use aharen\FlightMv\Flight;
 
-(new Flight)->departures()->updated();
+$flight = new Flight(
+    new ApiClient()
+);
+
+$flight->departures()->updated();
 ```
 
 `get()` returns an instance of Knapsack Collection
@@ -41,7 +54,11 @@ use aharen\FlightMv\Flight;
 ```
 use aharen\FlightMv\Flight;
 
-(new Flight)->departures()->get();
+$flight = new Flight(
+    new ApiClient()
+);
+
+$flight->departures()->get();
 ```
 
 `toArray()` return an array of the data
@@ -49,7 +66,11 @@ use aharen\FlightMv\Flight;
 ```
 use aharen\FlightMv\Flight;
 
-(new Flight)->departures()->toArray();
+$flight = new Flight(
+    new ApiClient()
+);
+
+$flight->departures()->toArray();
 ```
 
 `where($field, $value)` Filters the data
@@ -57,7 +78,11 @@ use aharen\FlightMv\Flight;
 ```
 use aharen\FlightMv\Flight;
 
-(new Flight)->departures()->where('AirLineID', 'Q2');
+$flight = new Flight(
+    new ApiClient()
+);
+
+$flight->departures()->where('AirLineID', 'Q2');
 ```
 
 You can also nest to further filter your results. Example: get all Q2 (Maldivian) but only International Flights
@@ -65,7 +90,11 @@ You can also nest to further filter your results. Example: get all Q2 (Maldivian
 ```
 use aharen\FlightMv\Flight;
 
-(new Flight)->departures()->where('AirLineID', 'Q2')
+$flight = new Flight(
+    new ApiClient()
+);
+
+$flight->departures()->where('AirLineID', 'Q2')
     ->where('CarrierType', 'I');
 ```
 
