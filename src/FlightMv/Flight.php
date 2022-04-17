@@ -2,8 +2,8 @@
 
 namespace aharen\FlightMv;
 
-use DusanKasan\Knapsack\Collection;
 use aharen\FlightMv\ApiClient\Interfaces\ApiClientInterface;
+use Illuminate\Support\Collection;
 
 class Flight
 {
